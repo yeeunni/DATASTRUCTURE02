@@ -1,0 +1,11 @@
+LOAD
+ADD new_files new_filesnumbers.csv
+MODIFY img_files "the man is gorgeous" 506
+MOVE
+PRINT
+SEARCH "on the"
+SELECT 506
+EDIT -f
+EDIT -l 22
+EDIT -r
+EXIT
